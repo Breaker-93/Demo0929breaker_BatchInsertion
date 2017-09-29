@@ -2,4 +2,4 @@
 !.gitignore
 !/src/
 !/[README]
-!/[connector]
+!/lib/
